@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 .sf.net
 ||sourceforge.net
 ||shenyun.com
-||storify.com
+storify.com
 ||upholdjustice.org
 videopediaworld.com
 .voachinese.com
