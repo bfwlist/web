@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 ||wikimedia.org
 .worldharmonysociety.org
 wsj.com
-.wsj.net
+wsj.net
 ||youmaker.com
 
 !--------------------Restricted--------------------
