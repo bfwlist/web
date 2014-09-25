@@ -41,7 +41,41 @@ worldharmonysociety.org
 wsj.com
 wsj.net
 ||youmaker.com
-
+!------TW------
+.0rz.tw
+|http://0rz.tw
+1-apple.com.tw
+||1-apple.com.tw
+||ait.org.tw
+||atj.org.tw
+.backpackers.com.tw/forum
+.bcc.com.tw/board
+||books.com.tw
+catholic.org.tw
+||catholic.org.tw
+.cdnews.com.tw
+||cna.com.tw
+.cnavista.com.tw/shop/stores_app
+||coolloud.org.tw
+cts.com.tw
+.culture.tw
+||culture.tw
+.ddc.com.tw
+.domain.club.tw
+dpp.org.tw
+||dpp.org.tw
+e-info.org.tw
+findbook.tw
+.funf.tw
+gamebase.com.tw
+||gamer.com.tw
+.gamer.com.tw
+.gamez.com.tw
+||gamez.com.tw
+|http://www.goldenmelody.com.tw
+.greenparty.org.tw
+||gvm.com.tw
+||mac.gov.tw
 !--------------------Restricted--------------------
 ||darpa.mil
 !--||dmm.com
@@ -1058,9 +1092,5 @@ wozy.in
 !-------------Google Minganci-----
 @@||ipv6.google.com
 
-!------TW------
-||*.com.tw
-||*.org.tw
-||*.gov.tw
 
 
