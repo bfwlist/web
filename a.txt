@@ -75,7 +75,6 @@ gamebase.com.tw
 |http://www.goldenmelody.com.tw
 .greenparty.org.tw
 ||gvm.com.tw
-||www.mac.gov.tw
 !--------------------Restricted--------------------
 ||darpa.mil
 !--||dmm.com
