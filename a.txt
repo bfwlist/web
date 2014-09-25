@@ -35,6 +35,8 @@ https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 .wikimedia.org
 ||wikimedia.org
 .worldharmonysociety.org
+.wsj.com
+||wsj.com
 .wsj.net
 ||youmaker.com
 
