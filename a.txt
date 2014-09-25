@@ -1059,8 +1059,8 @@ wozy.in
 @@||ipv6.google.com
 
 !------TW------
-.com.tw
-.org.tw
-.gov.tw
+*.com.tw
+*.org.tw
+*.gov.tw
 
 
