@@ -246,11 +246,8 @@ bannedbook.org
 bayvoice.net
 ||bayvoice.net
 dajusha.baywords.com
-.bbc.co.uk*chinese
-.bbc.co.uk/tv
-.bbc.co.uk*zhongwen
-news.bbc.co.uk/onthisday*newsid_2496000/2496277
-newsforums.bbc.co.uk
+.bbc.co.uk
+||bbc.co.uk
 .bbcchinese.com
 ||bbcchinese.com
 |http://bbc.in
