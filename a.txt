@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: September 24,2014,Wednesday.07:42 PM  +0800
+! Last Modified: September 25,2014,Thursday.04:19 PM  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
