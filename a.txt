@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 .bbci.co.uk
 .blogblog.com
 ||blogblog.com
-chrome.com
+||chrome.com
 .cloudflare.com
 ||cloudflare.com
 .djyimg.com
