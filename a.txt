@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 ||shenyun.com
 ||storify.com
 ||upholdjustice.org
+www.voachinese.com
 .voachinese.com
 ||voachinese.com
 .voanews.com
