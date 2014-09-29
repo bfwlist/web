@@ -16,6 +16,7 @@
 .cloudflare.com
 ||cloudflare.com
 .djyimg.com
+||ggpht.com
 ||grangorz.org
 .imgur.com
 ||imgur.com
