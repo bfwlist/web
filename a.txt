@@ -3,6 +3,7 @@
 ! Last Modified: 12:58 PM on September 29,2014.  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
+|https://github.com/bfwlist/
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
 |https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 !-----------------------------------------------
