@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: September 24,2014,Wednesday.08:49 PM  +0800
+! Last Modified: 12:58 PM on September 29,2014.  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -16,7 +16,6 @@
 .cloudflare.com
 ||cloudflare.com
 .djyimg.com
-||ggpht.com
 ||grangorz.org
 .imgur.com
 ||imgur.com
@@ -42,6 +41,18 @@ worldharmonysociety.org
 wsj.com
 wsj.net
 ||youmaker.com
+!-------YouTube-------
+.ggpht.com
+||ggpht.com
+.googlevideo.com
+||googlevideo.com
+||youtu.be
+.youtube.com
+||youtube.com
+!--/^https?:\/\/[^\/]+youtube\.com/
+||youtube-nocookie.com
+!-Youtube CDN
+||ytimg.com
 !------TW------
 .0rz.tw
 |http://0rz.tw
@@ -3234,17 +3245,10 @@ share.youthwant.com.tw
 topic.youthwant.com.tw
 .youporn.com
 ||youporn.com
-||youtu.be
-.youtube.com
-||youtube.com
-!--/^https?:\/\/[^\/]+youtube\.com/
-||youtube-nocookie.com
 .youtubecn.com
 youversion.com
 ||youversion.com
 blog.youxu.info/2010/03/14/west-chamber
-!-Youtube CDN
-||ytimg.com
 ytht.net
 yuanming.net
 ||yunchao.net
