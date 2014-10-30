@@ -41,6 +41,8 @@
 .storify.com
 ||storify.com
 ||upholdjustice.org
+.viber.com
+||viber.com
 videopediaworld.com
 .voachinese.com
 ||voachinese.com
