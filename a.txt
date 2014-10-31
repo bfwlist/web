@@ -21,8 +21,6 @@
 .cloudflare.com
 ||cloudflare.com
 .djyimg.com
-.falundafaradio.org
-||falundafaradio.org
 ||grangorz.org
 .hipp.de
 ||hipp.de
