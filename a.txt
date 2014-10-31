@@ -22,6 +22,7 @@
 ||cloudflare.com
 .djyimg.com
 ||grangorz.org
+||guangming.org
 .hipp.de
 ||hipp.de
 .imgur.com
