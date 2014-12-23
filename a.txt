@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 11:31 AM on December 23,2014.  +0800
+! Last Modified: 11:39 AM on December 23,2014.  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -746,8 +746,9 @@ dupola.net
 .dw-world.de
 http://dw-world.de
 www.dwheeler.com
-dwnews.com
+.dwnews.com
 ||dwnews.com
+.dwnews.net
 xys.dxiong.com
 dy24k.info
 ||dynawebinc.com
