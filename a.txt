@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 11:36 AM on January 5,2015.  +0800
+! Last Modified: 09:02 AM on January 8,2015.  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -21,6 +21,7 @@
 ||chrome.com
 .cloudflare.com
 ||cloudflare.com
+||dazzlepod.com
 ||digg.com
 .djyimg.com
 .dxtl.net
