@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 08:12 AM on January 26,2015.  +0800
+! Last Modified: 05:44 PM on February 3,2015.  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -12,6 +12,8 @@
 ||akamaihd.net
 .amazonaws.com
 ||amazonaws.com
+.apkmirror.com
+||apkmirror.com
 .bbc.com
 ||bbc.com
 .bbci.co.uk
