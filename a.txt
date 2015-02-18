@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 05:31 PM on February 17,2015.  +0800
+! Last Modified: 09:48 AM on February 18,2015.  +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -55,6 +55,7 @@
 ||shenyun.com
 .storify.com
 ||storify.com
+||t.co
 ||upholdjustice.org
 .viber.com
 ||viber.com
