@@ -12,6 +12,8 @@
 ||akamaihd.net
 .amazonaws.com
 ||amazonaws.com
+.android.com
+||android.com
 .apkmirror.com
 ||apkmirror.com
 .bbc.com
