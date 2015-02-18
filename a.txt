@@ -24,6 +24,7 @@
 ||blogblog.com
 ||chrome.com
 .chromium.org
+www.chromium.org
 ||chromium.org
 .cloudflare.com
 ||cloudflare.com
