@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 05:40 PM on March 28,2015. +0800
+! Last Modified: 06:03 PM on March 29,2015. +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -49,6 +49,7 @@ www.chromium.org
 ||bbs.juyuange.org
 ||juyuange.org
 ||kanzhongguo.com
+||li-hongzhi-master.org
 ||na.leagueoflegends.com
 .penchinese.org
 ||penchinese.org
