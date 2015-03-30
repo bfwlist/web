@@ -34,8 +34,6 @@ www.chromium.org
 .djyimg.com
 .dxtl.net
 ||dxtl.net
-.github.com
-||github.com
 ||grangorz.org
 ||guangming.org
 .hipp.de
