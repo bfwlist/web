@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 05:47 PM on April 14,2015. +0800
+! Last Modified: 11:57 AM on May 6,2015. +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -22,6 +22,8 @@
 .bbcimg.co.uk
 .blogblog.com
 ||blogblog.com
+.cbc.ca
+||cbc.ca
 ||chrome.com
 .chromium.org
 www.chromium.org
@@ -36,6 +38,8 @@ www.chromium.org
 ||dxtl.net
 ||grangorz.org
 ||guangming.org
+.guessmyage.net
+||guessmyage.net
 .hipp.de
 ||hipp.de
 ||ift.tt
