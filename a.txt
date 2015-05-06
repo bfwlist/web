@@ -23,6 +23,7 @@
 .blogblog.com
 ||blogblog.com
 .cbc.ca
+www.cbc.ca
 ||cbc.ca
 ||chrome.com
 .chromium.org
