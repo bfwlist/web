@@ -62,6 +62,8 @@ www.chromium.org
 !--sourceforge
 .sf.net
 ||sourceforge.net
+.sharethis.com
+||sharethis.com
 ||shenyun.com
 .storify.com
 ||storify.com
