@@ -1,10 +1,20 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 02:48 PM on July 8,2015. +0800
+! Last Modified: 06:17 PM on September 21,2015. +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
 |https://raw.githubusercontent.com/bfwlist/web/master/b.txt
+!-----------------------------------------------
+||bannedbook.net
+||huaglad.com
+||99cn.info
+||jinpianwang.com
+||bookepub.com
+||qi-gong.me
+||100ke.org
+||dtwang.org
+||m.dtwang.org
 !-----------------------------------------------
 .ablwang.com
 ||ablwang.com
