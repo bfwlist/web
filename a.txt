@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 06:28 PM on September 21,2015. +0800
+! Last Modified: 08:07 AM on September 22,2015. +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
@@ -2530,6 +2530,7 @@ threatchaos.com
 tiananmenmother.org
 ||tiananmenuniv.com
 ||tiananmenuniv.net
+www.tiandixing.org
 ||tiandixing.org
 .tianhuayuan.com
 tiantibooks.org
