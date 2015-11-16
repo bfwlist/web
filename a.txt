@@ -1,11 +1,13 @@
 [AutoProxy 0.2.9]
 ! Expires: 6h
-! Last Modified: 08:31 AM on October 19,2015. +0800
+! Last Modified: 11:10 AM on November 16,2015. +0800
 ! HomePage: https://github.com/comeforu2012/truth/wiki
 !--------------------BFWlist--------------------
 |https://raw.githubusercontent.com/bfwlist/web/master/a.txt
 |https://raw.githubusercontent.com/bfwlist/web/master/b.txt
 !-----------------------------------------------
+.deviantart.com
+||deviantart.com
 ||finnciti.com
 ||kanzhongguo.com.au
 ||bannedbook.net
