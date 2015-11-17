@@ -42,6 +42,7 @@ www.android.com
 .cbc.ca
 www.cbc.ca
 ||cbc.ca
+||cdninstagram.com
 .cdninstagram.com
 ||chrome.com
 .chromium.org
