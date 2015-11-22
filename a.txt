@@ -21,6 +21,7 @@
 ||dtwang.org
 ||m.dtwang.org
 !-----------------------------------------------
+||abc.xyz
 .ablwang.com
 ||ablwang.com
 .akamaihd.net
